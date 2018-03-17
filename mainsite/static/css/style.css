@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Marker Felt";
+    src: url("../fonts/10062.ttf");
+}
+
+*{
+    font-family: "Marker Felt", "Century Gothic", "Calibri" !important;
+}
+
+.l{
+    background-color: aqua;
+}
+h1{
+    color: rebeccapurple;
+}
+
