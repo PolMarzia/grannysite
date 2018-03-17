@@ -7,8 +7,14 @@
     font-family: "Marker Felt", "Century Gothic", "Calibri" !important;
 }
 
-.l{
-    background-color: aqua;
+
+.main_block{
+    margin-top: 15px;
+    border-style: solid;
+    border-color: rgb(35,49,107);
+    border-radius: 10px 10px 0 0;
+    border-width: 2px;
+
 }
 h1{
     color: rebeccapurple;
