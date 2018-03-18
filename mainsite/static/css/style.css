@@ -9,13 +9,22 @@
 
 
 .main_block{
-    margin-top: 15px;
+    margin: 15px;
     border-style: solid;
     border-color: rgb(35,49,107);
-    border-radius: 10px 10px 0 0;
+    border-radius: 15px 15px 0 0;
     border-width: 2px;
-
+    min-height: 500px;
 }
+
+.header_image{
+    margin-top: 25px;
+    background-image: url("../img/headerR2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
 h1{
     color: rebeccapurple;
 }
