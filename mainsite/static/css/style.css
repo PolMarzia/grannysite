@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Marker Felt";
+    src: url("../fonts/10062.ttf");
+}
+
+*{
+    font-family: "Marker Felt", "Century Gothic", "Calibri" !important;
+}
+
+
+.main_block{
+    margin: 4vw;
+    border-style: solid;
+    border-color: rgb(35,49,107);
+    border-radius: 15px 15px 0 0;
+    border-width: 2px;
+    min-height: 50px;
+}
+
+.header-image{
+    text-align: center;
+}
+
+#header-image{
+    margin-top: 4vw;
+    max-width: 80%;
+}
+
+#header-text{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 2.5vw;
+    color: #b52328;
+}
+
+.title-decor{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#title-decor{
+    max-width: 100%;
+}
+
+
+
